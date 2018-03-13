@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "rrule": "~2.0.0",
-    "moment": "~2.5.0"
+    "moment": "~2.19.3"
   },
   "devDependencies": {
     "lodash": "^2.4.1"
